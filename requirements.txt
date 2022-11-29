@@ -1,0 +1,9 @@
+os
+re
+bs4
+time
+requests
+colorama
+subprocess
+googletrans
+
